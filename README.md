@@ -15,7 +15,7 @@ Set up Apache Superset and enhanced its capabilities by developing multiple plug
 This contribution streamlined analytics workflows and optimized data reporting.
 
 ### Skills 🔧
-- **Languages**: 🐍 Python, 🌐 JavaScript, 🧩 React, 💻 SQL, 🌟 Node.js
+- **Languages**: 🌐 JavaScript, 🧩 React, 💻 SQL, 🌟 Node.js, 🐍 Python
 - **Front-end**: React.js, Ant Design, Sass, HTML, CSS
 - **Back-end**: Express.js, MongoDB, PostgreSQL, RESTful APIs
 - **Tools & Platforms**: Apache Superset, Git, GitHub, ClickHouse, VS Code
