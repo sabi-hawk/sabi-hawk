@@ -1,7 +1,7 @@
 # Hi, I'm Sabahat 👋
 A **passionate Full-Stack Developer** 🚀 with a strong background in building dynamic applications and contributing to open-source projects. I thrive on solving complex problems, enhancing user experiences, and creating impactful solutions 💡. With 3+ years of experience in **web development, data visualization**, and **business-oriented solutions**, I aim to drive innovation and efficiency 🌟 in every project I undertake.
 
-📍 Based in Chemnitz, Germany
+📍 Based in Lahore, Pakistan
 💌 Reach me via email: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
 🌐 [LinkedIn](https://www.linkedin.com/in/sabahat-atique-a36bb6153)
 
@@ -16,7 +16,7 @@ This contribution streamlined analytics workflows and optimized data reporting.
 
 ### Skills 🔧
 - **Languages**: 🌐 JavaScript, 🧩 React, 💻 SQL, 🌟 Node.js, 🐍 Python
-- **Front-end**: React.js, Ant Design, Sass, HTML, CSS
+- **Front-end**: React.js, Next.js, Ant Design, Sass, HTML, CSS
 - **Back-end**: Express.js, MongoDB, PostgreSQL, RESTful APIs
 - **Tools & Platforms**: Apache Superset, Git, GitHub, ClickHouse, VS Code
 - **Other**: Agile, Jira, Open Source Development
