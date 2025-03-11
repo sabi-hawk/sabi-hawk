@@ -1,5 +1,5 @@
 # Hi, I'm Sabahat 👋
-A **passionate Full-Stack Developer** 🚀 with a strong background in building dynamic applications and contributing to open-source projects. I thrive on solving complex problems, enhancing user experiences, and creating impactful solutions 💡. With 3+ years of experience in **web development, data visualization**, and **business-oriented solutions**, I aim to drive innovation and efficiency 🌟 in every project I undertake.
+A **passionate Full-Stack Developer** 🚀 with a strong background in building dynamic applications and contributing to open-source projects. I thrive on solving complex problems, enhancing user experiences, and creating impactful solutions 💡. With about 4 years of experience in **web development, data visualization**, and **business-oriented solutions**, I aim to drive innovation and efficiency 🌟 in every project I undertake.
 
 📍 Based in Lahore, Pakistan
 💌 Reach me via email: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
