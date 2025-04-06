@@ -7,12 +7,13 @@ A **passionate Full-Stack Developer** 🚀 with a strong background in building 
 
 
 ### Projects 🚀
-- **[Automated Task & Operations Management - ATOM](https://github.com/sabi-hawk/ATOMS)**: ATOM is a revolutionary web-application platform designed to streamline client engagement, enhance growth strategies, and empower business developers, digital marketers, freelancers, and individual business owners. By unifying essential tools in a single platform, ATOM improves efficiency, reduces operational costs, and fosters business growth.
-- **[Dynamic Educational Portal](https://github.com/sabi-hawk/dynamic-portal)**: Developed a Dynamic Educational Portal that enables any institute to create and customize their own portal within 5 minutes 🚀.
-The solution delivers a ready-to-use, live portal instantly, addressing the challenges of scalability and customization for educational institutes.
 - **[Apache Superset Contribution](https://github.com/apache/superset.git)**: Contributed to Apache Superset, an open-source BI tool, while working at Soliton Technologies.
 Set up Apache Superset and enhanced its capabilities by developing multiple plugins. Worked on the platform for 8-9 months, improving dashboards and creating new visualization solutions.
 This contribution streamlined analytics workflows and optimized data reporting.
+- **[Dynamic Educational Portal](https://github.com/sabi-hawk/dynamic-portal)**: Developed a Dynamic Educational Portal that enables any institute to create and customize their own portal within 5 minutes 🚀.
+The solution delivers a ready-to-use, live portal instantly, addressing the challenges of scalability and customization for educational institutes.
+- **[Automated Task & Operations Management - ATOM](https://github.com/sabi-hawk/ATOMS)**: ATOM is a revolutionary web-application platform designed to streamline client engagement, enhance growth strategies, and empower business developers, digital marketers, freelancers, and individual business owners. By unifying essential tools in a single platform, ATOM improves efficiency, reduces operational costs, and fosters business growth.
+
 
 ### Skills 🔧
 - **Languages**: 🌐 JavaScript, 🧩 React, 💻 SQL, 🌟 Node.js, 🐍 Python
