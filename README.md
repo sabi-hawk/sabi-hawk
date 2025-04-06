@@ -3,7 +3,7 @@ A **passionate Full-Stack Developer** 🚀 with a strong background in building 
 
 📍 Based in Lahore, Pakistan
 💌 Reach me via email: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/sabahat-atique-a36bb6153)
+🌐 [LinkedIn](https://www.linkedin.com/in/sabahat-atique)
 
 
 ### Projects 🚀
@@ -28,7 +28,7 @@ The solution delivers a ready-to-use, live portal instantly, addressing the chal
 - **Dynamic Educational Portal**: Delivered a scalable, plug-and-play portal solution for institutes, reducing setup time to 5 minutes.
 
 ### Contact 📬
-- **LinkedIn**: [Sabahat Atique](https://github.com/sabi-hawk) 🔗
+- **LinkedIn**: [Sabahat Atique](https://www.linkedin.com/in/sabahat-atique) 🔗
 - **Email**: [miansabby516@gmail.com](mailto:miansabby516@gmail.com)
 
 ### Future Goals 🌟
